@@ -1,0 +1,191 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+  height: 60px;
+  width: 1090px;
+  margin: auto;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.logo-items {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  margin-right: 40px;
+}
+
+.logo {
+  width: 34px;
+  height: 34px;
+}
+
+.vector {
+  width: 65.78px;
+  height: 29.26px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  font-size: 20px;
+  font-family: Clash Display;
+  font-weight: 700;
+  gap: 24px;
+  height: 100%;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.list1 {
+  color: #ff5555;
+}
+
+.download-button {
+  background-color: black;
+  font-family: Clash Display;
+  color: white;
+  height: 60px;
+  width: 180px;
+  margin-right: 0px;
+}
+
+.group1 {
+  display: flex;
+  width: 1090px;
+  height: 500px;
+  margin: auto;
+}
+
+.text-group1 {
+  height: 666px;
+  width: 625px;
+}
+
+.image-group1 {
+  height: 666px;
+  width: 652px;
+}
+
+.glow1 {
+  width: 400px;
+  height: 350px;
+  position: absolute;
+  margin-left: 110px;
+  top: 35px;
+  z-index: -1;
+}
+
+.text1 {
+  width: 618px;
+  height: 128px;
+  font-family: Clash Display;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 64px;
+  margin-top: 75px;
+}
+
+.text2 {
+  width: 638px;
+  height: 56px;
+  opacity: 0.5px;
+  margin-top: 20px;
+  font-family: Clash Display;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+}
+
+.get-started {
+  width: 180px;
+  height: 60px;
+  border-radius: 4px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  background-color: black;
+  color: white;
+  margin-top: 20px;
+  font-family: Clash Display;
+}
+
+.watch-video {
+  width: 180px;
+  height: 60px;
+  background-color: white;
+  font-family: Clash Display;
+  border: none;
+  font-size: 19px;
+}
+
+.achievement {
+  height: 427px;
+  width: 539px;
+}
+
+.iphone-container {
+  height: 666px;
+  width: 465px;
+}
+
+.iphoneimg1 {
+  height: 600px;
+  position: absolute;
+  margin-left: -60px;
+  margin-top: -50px;
+  z-index: 100;
+}
+
+.iphoneimg2 {
+  height: 600px;
+  position: absolute;
+  margin-left: 35px;
+  margin-top: 1px;
+  z-index: 99;
+}
+
+.iphoneimg3 {
+  height: 600px;
+  position: absolute;
+  margin-left: 128px;
+  margin-top: 53px;
+  z-index: 98;
+}
+
+.ring {
+  height: 605px;
+  position: absolute;
+  margin-left: -46px;
+  margin-top: -66px;
+  z-index: 97;
+}
+
+.glow2 {
+  height: 645px;
+  width: 442px;
+  margin-top: 49px;
+  margin-left: 40px;
+  rotate: 180deg;
+  z-index: 96;
+}
+
+.star3 {
+  height: 48px;
+  width: 48px;
+  position: absolute;
+  margin-left: 77px;
+  margin-top: -263px;
+  rotate: -42deg;
+}
+
+.star2 {
+  height: 48px;
+  width: 48px;
+  position: absolute;
+  margin-left: -264px;
+  margin-top: 148px;
+  rotate: -5deg;
+}
